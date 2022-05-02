@@ -5,3 +5,5 @@ const base = "/api/v1/book";
 
 
 router.post(base+"/create",bookController.createBook)
+
+export default router;

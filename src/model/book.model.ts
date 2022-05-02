@@ -16,4 +16,4 @@ import Sequelize from "sequelize";
       },
     })
 
-    module.exports = Book;
+export default Book;
